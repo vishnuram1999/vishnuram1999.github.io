@@ -1,0 +1,14 @@
+---
+layout: post
+title: "UTCTF 2022 — Writeup"
+date: 2022-03-14
+categories: cybersecurity ctf
+---
+
+# UTCTF 2022 — Writeup
+
+You can find the writeup for challenges which I solved during the CTF.
+
+[Writeup link][writeup]
+
+[writeup]: https://infosecwriteups.com/utctf-2022-writeup-de956bfe0bf3

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "picoCTF 2022- Writeup"
+date: 2022-04-03
+categories: cybersecurity ctf
+---
+
+# picoCTF 2022- Writeup
+
+You can find the writeup for challenges which I solved during the CTF.
+
+[Writeup link][writeup]
+
+[writeup]: https://infosecwriteups.com/picoctf-2022-writeup-53633ac84ed6

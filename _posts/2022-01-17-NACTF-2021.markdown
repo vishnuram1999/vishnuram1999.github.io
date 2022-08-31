@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Newark Academy CTF (NACTF) 2021 — Challenge Writeups"
+date: 2022-01-17
+categories: cybersecurity ctf
+---
+
+# Newark Academy CTF (NACTF) 2021 — Challenge Writeups
+
+You can find the writeup for challenges which I solved during the CTF.
+
+[Writeup link][writeup]
+
+[writeup]: https://infosecwriteups.com/newark-academy-ctf-nactf-2021-challenge-writeups-28ea2e937cfa

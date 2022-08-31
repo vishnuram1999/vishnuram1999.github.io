@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Beginner picoMini CTF 2022 — Writeup"
+date: 2022-02-04
+categories: cybersecurity ctf
+---
+
+# Beginner picoMini CTF 2022 — Writeup
+
+You can find the writeup for challenges which I solved during the CTF.
+
+[Writeup link][writeup]
+
+[writeup]: https://infosecwriteups.com/beginner-picomini-ctf-2022-writeup-94174d0ea64b

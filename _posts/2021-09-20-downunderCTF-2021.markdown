@@ -1,0 +1,14 @@
+---
+layout: post
+title: "DownUnderCTF 2021 — Get over it!"
+date: 2021-09-30
+categories: cybersecurity ctf
+---
+
+# DownUnderCTF 2021 — Get over it!
+
+You can find the writeup below for "Get over it!" challenge which I solved during the CTF.
+
+[Writeup link][writeup]
+
+[writeup]: https://infosecwriteups.com/downunderctf-2021-get-over-it-78a3e02eb2e

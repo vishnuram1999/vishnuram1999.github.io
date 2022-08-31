@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Synkcon CTF 2021 not-hot-dog Writeup"
+date: 2021-10-06
+categories: cybersecurity ctf
+---
+
+# Synkcon CTF 2021 not-hot-dog Writeup
+
+You can find the writeup for challenges which I solved during the CTF.
+
+[Writeup link][writeup]
+
+[writeup]: https://infosecwriteups.com/synkcon-ctf-2021-not-hot-dog-writeup-90b0f9d027f0
