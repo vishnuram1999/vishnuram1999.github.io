@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: /
 layout: home
+permalink: /
 ---
+
+# viking71
+
+My name is Vishnuram Rajkumar, but on the internet I go by viking71.
+
+I’m a cybersecurity enthusiast and smart contract security auditor. Here, you will find awesome cybersecurity and blockchain contents.
+
+I also perform smart contract security audits for Defi protocols and dApps. Contact me to know more about it.
