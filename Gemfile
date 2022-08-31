@@ -37,5 +37,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
-remote_theme: b2a3e8/jekyll-theme-console
+
 
