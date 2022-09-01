@@ -10,4 +10,4 @@ My name is <mark style="background: #ADFF2F!important">Vishnuram Rajkumar</mark>
 
 I’m a <mark style="background: #ADFF2F!important">cybersecurity enthusiast and smart contract security auditor</mark>. Here, you will find awesome cybersecurity and blockchain contents.
 
-I also perform smart contract security audits for Defi protocols and dApps. Contact me to know more about it.
+<mark style="background: #ADFF2F!important">I also perform smart contract security audits for Defi protocols and dApps. Contact me to know more about it.</mark>
