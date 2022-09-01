@@ -6,5 +6,4 @@ permalink: /contact
 
 # Get in touch?
 
-{{ content }}
 {% include contact-form.html %}
