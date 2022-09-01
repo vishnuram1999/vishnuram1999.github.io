@@ -6,6 +6,8 @@ permalink: /contact
 
 # Get in touch?
 
+{::nomarkdown}
+
 <form action="https://formspree.io/f/xqkjaryy" method="POST">
     <label>
         Your Name:
@@ -22,3 +24,5 @@ permalink: /contact
     <!-- your other form fields go here -->
     <button type="submit">Send</button>
 </form>
+
+{:/nomarkdown}
