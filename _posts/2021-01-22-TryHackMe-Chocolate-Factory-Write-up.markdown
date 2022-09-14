@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe: Chocolate Factory Write-up"
 date: 2021-01-22
-categories: cybersecurity ctf
+categories: cybersecurity tryhackme
 ---
 
 # TryHackMe: Chocolate Factory Write-up
