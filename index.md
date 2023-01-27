@@ -8,6 +8,6 @@ permalink: /
 
 My name is Vishnuram Rajkumar, but on the internet I go by viking71.
 
-I’m a <mark style="color: #FF7F50">cybersecurity enthusiast and smart contract security auditor</mark>. Here, you will find awesome cybersecurity and blockchain contents.
+I’m a <span style="color: #FF7F50">cybersecurity enthusiast and smart contract security auditor</span>. Here, you will find awesome cybersecurity and blockchain contents.
 
-<mark>I also perform smart contract security audits for Defi protocols and dApps. Contact me to know more about it. <a href="https://github.com/vishnuram1999/Smart-Contract-Auditing-Checklist">Check my Smart Contract Auditing Checklist</a> </mark>
+I also perform smart contract security audits for Defi protocols and dApps. Contact me to know more about it. <a href="https://github.com/vishnuram1999/Smart-Contract-Auditing-Checklist">Check my Smart Contract Auditing Checklist</a>
