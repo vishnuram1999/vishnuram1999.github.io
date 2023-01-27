@@ -4,6 +4,12 @@ layout: home
 permalink: /
 ---
 
+<style>
+mark{
+    color:red;
+}
+</style>
+
 # viking71
 
 My name is \textcolor{red}{Vishnuram Rajkumar}, but on the internet I go by viking71.
