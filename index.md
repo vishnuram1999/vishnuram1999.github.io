@@ -6,7 +6,7 @@ permalink: /
 
 # viking71
 
-My name is <mark style="background: #FF7F50!important">Vishnuram Rajkumar</mark>, but on the internet I go by viking71.
+My name is <span style="color:#FF7F50">Vishnuram Rajkumar</span>, but on the internet I go by viking71.
 
 I’m a <mark style="background-color: #FF7F50">cybersecurity enthusiast and smart contract security auditor</mark>. Here, you will find awesome cybersecurity and blockchain contents.
 
