@@ -2,7 +2,7 @@
 layout: post
 title: "Capture the Ether — Challenge Writeup"
 date: 2022-05-30
-categories: smartcontractsecurity
+categories: smartcontractsecurity ethereum
 ---
 
 # Capture the Ether — Challenge Writeup
