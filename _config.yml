@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Vishnuram73
 github_username: vishnuram1999
-youtube_username: 
+youtube_username: vishnuramrajkumar
 
 # Build settings
 theme: minima
@@ -56,5 +56,6 @@ plugins:
 remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
+  - resume.md
 
 footer: '<a href="https://twitter.com/Vishnuram73">twitter</a> <a href="https://www.linkedin.com/in/vishnuram-r/">linkedin</a> <a href="https://github.com/vishnuram1999">github</a> <a href="https://www.youtube.com/@vishnuramrajkumar">youtube</a>'
