@@ -57,6 +57,5 @@ remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
   - resume.md
-  - contact.md
-
+  
 footer: '<a href="https://twitter.com/Vishnuram73">twitter</a> <a href="https://www.linkedin.com/in/vishnuram-r/">linkedin</a> <a href="https://github.com/vishnuram1999">github</a> <a href="https://www.youtube.com/@vishnuramrajkumar">youtube</a>'
