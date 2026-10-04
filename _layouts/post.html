@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<article class="content-page">
+  <a class="back-link" href="{{ '/#writing' | relative_url }}">← All writeups</a>
+  <header class="article-header"><p class="eyebrow"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time></p><h1>{{ page.title | escape }}</h1></header>
+  <div class="prose">{{ content }}</div>
+</article>

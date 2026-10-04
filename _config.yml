@@ -21,9 +21,10 @@
 title: viking71
 email: vishnukee3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Vishnuram Portfolio
+  Vishnuram Rajkumar — Blockchain Engineer and Security Researcher.
+  Smart contract audits, cybersecurity research, and CTF writeups.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vishnuram1999.github.io"
 twitter_username: Vishnuram73
 github_username: vishnuram1999
 youtube_username: vishnuramrajkumar
@@ -53,7 +54,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-remote_theme: b2a3e8/jekyll-theme-console
+exclude:
+  - README.md
+  - LICENSE
+  - vendor
+  - .bundle
+  - .dccache
 header_pages:
   - index.md
   - resume.md

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="theme-color" content="#101314">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+    {% seo %}
+    {% feed_meta %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="viking71 home"><span class="brand-mark" aria-hidden="true">v.</span>viking71<span class="brand-cursor" aria-hidden="true">_</span></a>
+        <nav aria-label="Main navigation">
+          <a href="{{ '/#writing' | relative_url }}">Writing</a>
+          <a href="https://github.com/vishnuram1999/audits">Audits <span aria-hidden="true">↗</span></a>
+          <a href="{{ '/resume' | relative_url }}" {% if page.url == '/resume' %}aria-current="page"{% endif %}>Resume</a>
+          <a class="nav-contact" href="mailto:{{ site.email }}">Let's talk <span aria-hidden="true">↗</span></a>
+        </nav>
+      </header>
+      <main id="main-content" tabindex="-1">{{ content }}</main>
+      <footer class="site-footer">
+        <div><a class="footer-brand" href="{{ '/' | relative_url }}">viking71<span aria-hidden="true">_</span></a><p>Blockchain engineering. Security research.</p></div>
+        <nav aria-label="Social links">
+          <a href="https://github.com/vishnuram1999">GitHub</a>
+          <a href="https://www.linkedin.com/in/vishnuram-r/">LinkedIn</a>
+          <a href="https://twitter.com/Vishnuram73">Twitter</a>
+          <a href="https://www.youtube.com/@vishnuramrajkumar">YouTube</a>
+        </nav>
+      </footer>
+    </div>
+  </body>
+</html>
